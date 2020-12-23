@@ -1,4 +1,4 @@
-export interface ICuriosityPhotosResponse {
+export interface IMarsRoverPhotosResponse {
     camera: ICameraData;
     earth_date: string;
     id: number;

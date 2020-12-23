@@ -1,0 +1,10 @@
+{
+    "ignoreTestFiles": ["**/*.helper.ts"],
+    "baseUrl": "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?",
+    "testFiles": ["**/*spec.ts"],
+    "env": {
+        "API_KEY": "qlEeo9UdXhlzcyMqt2r0nFvRibctg00b4XVaTjif"
+    },    
+    "video": false,
+    "videoUploadOnPasses": false
+}
